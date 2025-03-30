@@ -1,5 +1,0 @@
-pandas
-matplotlib
-prophet
-statsmodels
-scikit-learn
